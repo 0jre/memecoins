@@ -1,0 +1,16 @@
+.anchor/
+.DS_Store
+target/
+node_modules/
+test-ledger/
+.yarn/
+tests/deps/*.so
+*.log
+
+# python MCP
+.venv/
+__pycache__/
+*.egg-info/
+data/
+
+tsconfig.tsbuildinfo

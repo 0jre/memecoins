@@ -1,0 +1,10 @@
+{
+  "name": "Stonk",
+  "symbol": "STONK",
+  "description": "He knows the markets. Stonk only goes up. 1B supply, fixed forever.",
+  "image": "https://files.catbox.moe/ev67ld.png",
+  "attributes": [
+    { "trait_type": "outfit", "value": "degen suit" },
+    { "trait_type": "market direction", "value": "up only" }
+  ]
+}
